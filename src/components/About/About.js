@@ -4,7 +4,7 @@ import computer from './computer.png'
 export default function About() {
   return (
     <div className='about-cotainer'>
-        <h2 className='about-heading'><a href="#about" >About</a></h2>
+        <h2 className='heading' id='about'><a href="#about" >About</a></h2>
         <hr />
         <br />
         <div className="about-block">

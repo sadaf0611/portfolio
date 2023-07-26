@@ -3,3 +3,14 @@
   padding: 0;
   box-sizing: border-box;
 }
+.heading{
+  text-align: center;
+}
+.heading a{
+  
+  font-weight: 700;
+  font-size: 40px;
+  font-family: Arial;
+  text-decoration: none;
+  color: #0a0e3d;
+}

@@ -3,19 +3,6 @@
     background-color:#fff ;
     color:#0a0e3d;
 }
-.pro-container .heading{
-    text-align: center;
-}
-.pro-container .heading a{
-    
-    font-weight: 700;
-    font-size: 40px;
-    font-family: Arial;
-    text-decoration: none;
-    color: #0a0e3d;
-    
-    
-}
 .pro-row{
     width: 100%;
     height:500px;
